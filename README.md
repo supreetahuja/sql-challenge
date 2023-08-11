@@ -1,7 +1,7 @@
-# sql-challenge
+# SQL-challenge
 
 
-## In this SQL assinment we performed:
+## In this SQL assignment we performed the:
 
 ## Data Modeling - Created ERD diagram using QuickDBD site. 
     Link to the diagram created - https://app.quickdatabasediagrams.com/#/d/q6h4b8
